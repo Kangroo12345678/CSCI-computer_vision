@@ -12,7 +12,7 @@
 > > >
 > > > Distance
 > > >
-> > > Brightness
+> > > <ins>Brightness<ins>
 
 ### Some ‘secrets’ about human vision systems
 
@@ -26,11 +26,11 @@
       - Some encoding maybe?
       - Segmentation, classification
         - I am guessing this is how 'self-supervised' is achieved
-  - Hardware?
+  - <ins>Hardware?<ins>
     - O(10**11) neurons -- whatever they are
     - O(10**8) transistors for a CPU
     - Parallel, slow & serial, fast
-  - Vision Illusion?
+  - <ins>Vision Illusion?<ins>
     - Should we be solving this or imitating this? How do we define the success of a vision system?
       - Maybe avoiding this misfunction will lead to the collapses of other functions
 
@@ -44,10 +44,10 @@
     - To my understanding it is segmentation and classification
   - Body-pose tracking
   - Face Detection
-  - Advanced Image Search
+  - <ins>Advanced Image Search<ins>
     - Text based?
     - This is quite interesting, multimodal
-  - Self-driving cars
+  - <ins>Self-driving cars<ins>
     - This is very interesting
     - I always think this should be described as mimicing the behavior of a community
     - More than just vision
@@ -55,9 +55,9 @@
       - Planning
       - Mapping
       - Other cars' behavior
-  - VR, AR
+  - <ins>VR, AR<ins>
   - Vision Based Interaction, Robotics
-  - Medical
+  - <ins>Medical<ins>
     - Very important
   - Novel view synthesis
     - Question: what is Sparsely-sampled
@@ -68,7 +68,7 @@
   - Mobile Apps
     - Of course
 
-###### Information Retrieval <-- I put it here just because I don't really know how the theory of this works
+###### <ins>Information Retrieval <-- I put it here just because I don't really know how the theory of this works<ins>
 
 - Task Overview
   - Image Classification
@@ -76,7 +76,7 @@
   - Object Detection
   - Instance Segmentation
 
-- The most interesting(According Yann LeCun)  ***VIDEO DATA***
+- <ins>The most interesting(According Yann LeCun)  ***VIDEO DATA***<ins>
   - Video Classification
   - Multimodal Video Understanding
 
@@ -84,12 +84,12 @@
 - Some concepts preview:
   - Input --> Convolution --> Images Maps --> Subsampling --> Fully Connected(Now mostly gotten rid of) --> Output
   - RNN, attention
-  - Self-supervised Learning
+  - <ins>Self-supervised Learning<ins>
     - Pipeline picture in my head -->  distance function --> how does the scalar value make a difference?
     - The scalar should be 0 or what? Dependent on different tasks? Does not make much sense intuitively
   - Generative Modeling 
     - Of course again
-  - 3D Modeling
+  - <ins>3D Modeling<ins>
 
 
 

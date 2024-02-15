@@ -1,18 +1,15 @@
-## Some intuitive concepts before going into specifics
+## Here this section is for my revisiting some of the fundamental concepts of deep learning(I kinda forgot some of them haha)
+*The 'reflection process' is pretty fun, and I mainly put the questions which guide my thinking here. The inductions are on my handwritten notes. If someone else is reading this, hopt it inspires you!*
 
-## This section of notes are mainly focused on supervised learning setting
+- Here did sigmoid and some other activation functions come along? There has to be a process of discovering them
+  - 3 Perspectives
+    - Maximum Entropy
+    - GLM
+    - From an information-science perspective
+    - 
 
-- {x__i} --> (t__i) << {C__k}
-- the new notion of regression {y__i}
 
-### Learning pipelines
-- Traditional vision pipelines
-- Classic machine learning pipelines
-- Deep learning pipelines
-  - So the differences here are 'hand-crafted features' -- 'learned features', 'hand-crafted algorithms' -- 'machine learning'
 
-- Making sense of: 
-  - what is a handcrafted algorithm
 
 
 

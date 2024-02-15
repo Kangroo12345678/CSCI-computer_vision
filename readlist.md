@@ -1,0 +1,7 @@
+- [Taigman et al. DeepFace: Closing the Gap to Human-Level Performance in Face Verification, CVPR’14]
+  - Face recognition <-- pretty curious how this goes
+- DALL-E 2
+- Style Transfer
+- 3D Vision
+  - Choy et al., 3D-R2N2: Recurrent Reconstruction Neural Network (2016)
+  - Gkioxari et al., “Mesh R-CNN”, ICCV 2019
